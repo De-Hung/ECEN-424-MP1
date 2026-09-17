@@ -1,0 +1,23 @@
+public class Calculator {
+    private String name;
+
+    public Float addition(Float A, Float B) {
+        return A + B;
+    }
+
+    public Float subtraction(Float A, Float B) {
+        return A - B;
+    }
+
+    public Float multiplication(Float A, Float B) {
+        return A * B;
+    }
+
+    public void setname(String N) {
+        this.name = N;
+    }
+
+    public String getname() {
+        return this.name;
+    }
+}
