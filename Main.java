@@ -9,8 +9,8 @@ public class Main {
         //Creating a new instance of the Calculator Class
         Calculator mycalc = new Calculator();
         
-        // Put your assigned group name/number here
-        mycalc.setname("Group 5");
+        // Assigned group number
+        mycalc.setname("Group 41");
 
         while (true) {
 
