@@ -1,6 +1,7 @@
 public class Calculator {
     private String name;
 
+    //defining all of the operations
     public Float addition(Float A, Float B) {
         return A + B;
     }
