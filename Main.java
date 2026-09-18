@@ -15,7 +15,7 @@ public class Main {
         while (true) {
 
             //Printing the welcome message and additional instructions to the user
-            System.out.println("Welcome to the Calculator designed by \"" + mycalc.getname() + "\".");
+            System.out.println("Welcome to the Calculator designed by \"" + "Group 41" + "\".");
             System.out.println("Enter A to Add, S to Subtract, M to Multiply, and Q to quit.");
 
             //User input for the operation...trimmed to avoid leading or tailing whitspaces
